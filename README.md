@@ -3,8 +3,11 @@ Este é um projeto de desenvolvimento front-end desenvolvido exclusivamente para
 
 Tecnologias Utilizadas
 O projeto foi construído utilizando as três tecnologias pilares da web:
+
 HTML5: Estruturação semântica do conteúdo.
+
 CSS3: Estilização, layout (Flexbox/Grid) e responsividade.
+
 JavaScript: Implementação de lógica e dinamismo na interface.
 
 Objetivos do Estudo
