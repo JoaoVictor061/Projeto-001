@@ -12,6 +12,9 @@ JavaScript: Implementação de lógica e dinamismo na interface.
 
 Objetivos do Estudo
 Praticar a manipulação do DOM (Document Object Model) via JavaScript.
+
 Aplicar conceitos de Design Responsivo (Mobile First).
+
 Consolidar conhecimentos em seletores e propriedades avançadas de CSS.
+
 Organização de arquivos e boas práticas de versionamento.
