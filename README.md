@@ -5,7 +5,7 @@ Tecnologias Utilizadas
 O projeto foi construído utilizando as três tecnologias pilares da web:
 HTML5: Estruturação semântica do conteúdo.
 CSS3: Estilização, layout (Flexbox/Grid) e responsividade.
-JavaScript (ES6+): Implementação de lógica e dinamismo na interface.
+JavaScript: Implementação de lógica e dinamismo na interface.
 
 Objetivos do Estudo
 Praticar a manipulação do DOM (Document Object Model) via JavaScript.
